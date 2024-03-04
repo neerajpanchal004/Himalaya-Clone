@@ -1,9 +1,12 @@
 # Hello everyone
 
 ##  This is a construction week project that I created within four days using Next. JS and tailwind CSS
-## In this project, we created the landing page and home page of the website.
+### In this project, I created the landing page of the website.
+### And a page that has an About Section of the website.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##TECHSTACK:REACT.JS, NEXT.JS, TAILWIND CSS, JAVASCRIPT AND HTML5
+
+
 
 ## Getting Started
 
