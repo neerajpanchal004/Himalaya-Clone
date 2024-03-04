@@ -2,7 +2,11 @@
 
 ##  This is a construction week project that I created within four days using Next. JS and tailwind CSS
 ### In this project, I created the landing page of the website.
+<img width="942" alt="Himalaya-home" src="https://github.com/neerajpanchal004/Himalaya-Clone/assets/141296714/e4092224-9d59-4df0-84ff-6e22ade178be">
+
 ### And a page that has an About Section of the website.
+<img width="922" alt="Himalaya-about" src="https://github.com/neerajpanchal004/Himalaya-Clone/assets/141296714/a3bdea41-8d69-4adf-8035-43817f845c7f">
+
 
 ## TECHSTACK:REACT.JS, NEXT.JS, TAILWIND CSS, JAVASCRIPT AND HTML5
 
