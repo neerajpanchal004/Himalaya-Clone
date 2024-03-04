@@ -4,7 +4,7 @@
 ### In this project, I created the landing page of the website.
 ### And a page that has an About Section of the website.
 
-##TECHSTACK:REACT.JS, NEXT.JS, TAILWIND CSS, JAVASCRIPT AND HTML5
+## TECHSTACK:REACT.JS, NEXT.JS, TAILWIND CSS, JAVASCRIPT AND HTML5
 
 
 
